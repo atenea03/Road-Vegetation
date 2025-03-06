@@ -1,0 +1,35 @@
+ate_roadvegetation_1 = -0.351994634, -356.926331, 40.345665
+
+ate_roadvegetation_2 = -20.6795464, -264.01474, 46.3762856
+
+ate_roadvegetation_3 = 105.031265, -309.376343, 46.98597
+
+ate_roadvegetation_4 = -181.4736, -450.6197, 33.3776054
+
+ate_roadvegetation_5 = -168.308884, -412.492737, 33.106945
+
+ate_roadvegetation_6 = -152.017181, -363.732, 32.98247
+
+ate_roadvegetation_7 = -192.2444, -393.754456, 31.4686375
+
+ate_roadvegetation_8 = -132.793152, -303.814758, 39.0584
+
+ate_roadvegetation_9 = -219.077972, -426.26355, 30.67424
+
+ate_roadvegetation_10 = -89.8950043, -159.682, 52.96751
+
+ate_roadvegetation_11 = -65.60507, -50.92973, 60.98438
+
+ate_roadvegetation_12 = 117.382683, -180.924164, 56.0247955
+
+ate_roadvegetation_13 = 439.9302, -362.6762, 46.35486
+
+ate_roadvegetation_14 = 167.185959, -198.3231, 53.46164
+
+ate_roadvegetation_15 = 410.777649, -290.645569, 50.3893852
+
+ate_roadvegetation_16 = 520.097351, -211.473312, 50.367363
+
+ate_roadvegetation_17 = 375.4825, -212.173782, 55.8585739
+
+ate_roadvegetation_18 = 385.206573, -181.309937, 60.54334
